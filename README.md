@@ -2,7 +2,7 @@
 </br>
 
 <div style="width: 100%; display: flex; justify-content: center;">
-    <image alt="The QLogicae Logo" src="./assets/qlogicae1.png" width="256px">
+    <image alt="The QLogicae Logo" src="./project/asset/qlogicae1.png" width="256px">
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 <div style="text-align: center;">
   <h1>QLogicae Upkeep</h1>
-  <p style="font-style: italic;">"A personal budget application for V.C.A., deployed via Google's Looker Studio."</p>
+  <p style="font-style: italic;">A personal budget application for V.C.A., deployed via Google's Looker Studio</p>
 <div style="margin: 32px 64px;">
 
 ![Version](https://img.shields.io/badge/Version-1.5.1-blue)
