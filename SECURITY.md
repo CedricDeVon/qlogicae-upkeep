@@ -7,8 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported |
 | ------- | ------------------ |
-| = v1.5.1 | :check: | 
-| < v1.5.1 | :x: | 
+| = v1.5.3 | :check: | 
+| < v1.5.3 | :x: | 
 
 ## Reporting a Vulnerability
 
