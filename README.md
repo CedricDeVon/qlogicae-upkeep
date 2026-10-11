@@ -1,93 +1,94 @@
 </br>
-
 <div style="width: 100%; display: flex; justify-content: center;">
-    <image alt="the qlogicae logo" src="./project/asset/qlogicae.png" width="256px">
+    <image alt="QLogicae logo" src="./project/asset/qlogicae.png" width="256px">
 </div>
-
 </br>
+
 
 
 <div style="text-align: center;">
   <h1>QLogicae Upkeep</h1>
-  <p style="font-style: italic;">The personal budget application for V.C.A., deployed via Google's Looker Studio</p>
+  <p style="font-style: italic;">The personal budget application for V.C.A., deployed via Google's Looker Studio.</p>
   <div style="margin: 32px 64px;">
 
+<!-- Static Markdown Badges -->
 ![Project - Version](https://img.shields.io/badge/Version-v1.5.8-blue)
-![License - MIT](https://img.shields.io/badge/License-MIT-red)
+![License - Name](https://img.shields.io/badge/License-MIT-red)
 ![Google](https://img.shields.io/badge/Google-Sheets-green)
 ![Looker](https://img.shields.io/badge/Looker-Studio-blue)
 
-![GitHub - Stars](https://img.shields.io/github/stars/CedricDeVon/qlogicae-qarta)
-[![GitHub - Actions](https://github.com/CedricDeVon/qlogicae-qarta/actions/workflows/codeql.yml/badge.svg)](https://img.shields.io/github/actions/workflow/status/CedricDeVon/qlogicae-qarta/codeql.yml)
+<!-- Dynamic Markdown Badges -->
+![GitHub - Stars](https://img.shields.io/github/stars/CedricDeVon/qlogicae-upkeep)
+[![GitHub - Actions](https://github.com/CedricDeVon/qlogicae-upkeep/actions/workflows/codeql.yml/badge.svg)](https://img.shields.io/github/actions/workflow/status/CedricDeVon/qlogicae-upkeep/codeql.yml)
 
   </div>
 </div>
-
 </br>
 
 
 
 <h2>📚 Table of Contents</h2>
 <ul>
-  <li>
-    <a href="#about">
-      About
-    </a>
-  </li>
-  <ul>
     <li>
-      <a href="#about-description">
-        Description
-      </a>
+        <a href="#about">
+            About
+        </a>
     </li>
-    <li>
-      <a href="#about-core-features">
-        Core Features
-      </a>
-    </li>
-    <li>
-      <a href="./documentation/index.md">
-        Extended Documentation
-      </a>
-    </li>
-  </ul>
-  <li>
-    <a href="#usage">
-      Usage
-    </a>
     <ul>
-      <li>
-        <a href="#usage-pre-requisites">
-          Pre-Requisites
-        </a>
-      </li>
-      <li>
-        <a href="#usage-links">
-          Links
-        </a>
-      </li>
+        <li>
+            <a href="#about-description">
+                Description
+            </a>
+        </li>
+        <li>
+            <a href="#about-core-features">
+                Core Features
+            </a>
+        </li>
+        <li>
+            <a href="./documentation/index.md">
+                Project Repository
+            </a>
+        </li>
     </ul>
-  </li>
-  <li>
-    <a href="#contribution">
-      Contribution
-    </a>
-  </li>
-  <li>
-    <a href="#legalities">
-      Legalities
-    </a>
-    <ul>
-      <li>
-        <a href="#legalities-license">
-          License
-        </a>
-      </li>
-    </ul>
-  </li>  
+    <li>
+		<a href="#usage">
+			Usage
+		</a>
+		<ul>
+			<li>
+				<a href="#usage-pre-requisites">
+					Pre-Requisites
+				</a>
+			</li>
+			<li>
+				<a href="#usage-installation">
+					Installation
+				</a>
+			</li>
+			<li>
+				<a href="#usage-preview">
+					Preview
+				</a>
+			</li>
+		</ul>
+    </li>
+    <li>
+		<a href="#legalities">
+			Legalities
+		</a>
+		<ul>
+			<li>
+			<a href="#legalities-license">
+				License
+			</a>
+			</li>
+		</ul>
+    </li> 
 </ul>
-
 </br>
+
+
 
 <h2 id="about">
   📖 About
@@ -99,25 +100,34 @@
   "With a lack of hardware, why not optimize your workflow?"
 </p>
 <p>
-  Strong logistics often win wars, at the very least. This project exists to help me win mine: budgeting. I wanted a tool to help me manage my finances, track them as well as I can, and visualize them beautifully.
+  This project aims to help me fix one of my problems: budgeting. I needed a tool to help me manage my personal finances, and track them well.
 </p>
 <p>
-  While more sophisticated data tools like Microsoft's Power BI exist, using the most advanced options is not my focus right now. I simply want to start budgeting soon rather than later.
+  True, while more sophisticated tools, like Microsoft's Power BI do exist, utilizing the most advanced tools was never my primary issue. I simply want to get started with the habit of budgeting. Either way, better late than never.
 </p>
 <p>
-  Better solutions will come when the time is right. For now, at least, I have made a start.
+  Better solutions will arrive when needed. For now, at least, I have made a start.
 </p>
-
 <h3 id="about-core-features">
   ⚙️ Core Features
 </h3>
 <p>
-  More can be added, eventually. What this project offers now to its users (and contributors) are as follows:
+  More can be added, eventually. What this project offers now is as follows:
 </p>
 <ul>
   <li>
     <p>
-      Dashboards
+      Fixed Budget
+    </p>
+  </li>
+  <li>
+    <p>
+      Dynamic Budget
+    </p>
+  </li>
+  <li>
+    <p>
+      Data Dashboards
     </p>
   </li>
   <li>
@@ -125,47 +135,57 @@
       Database Backups
     </p>
   </li>
-  <li>
-    <p>
-      Data Worksheets
-    </p>
-  </li>  
 </ul>
-
-</br>
-
 <p>
-  To know more, check out the <a href="./documentation/index.md">extended documentation</a>.
+  For more information, please visit the <a href="./documentation/index.md">Extended Documentation</a>.
 </p>
-
 </br>
-
 
 
 
 <h2 id="usage">
   🧑‍💻 Usage
 </h2>
-
 <h3 id="usage-pre-requisites">
   📋 Prerequisites
 </h3>
-
 <p>
-  For maximum convenience, please make sure these minimum system requirement(s) are met and have installed the following software:
+  For maximum convenience, please re-evaluate your system if these requirement(s) are met:
 </p>
-
+<h4 id="usage-pre-requisites-minimum">
+  🔻 Minimum
+</h4>
 <ul>
   <li>
     <p>
-      <strong>Browser</strong> - Chrome, Brave, Opera, OperaGX, Safari, etc.      
-    </p>
-  </li>
-  <li>
-    <p>
-      <strong>Internet</strong> - Decent enough to be comfortable
+      <strong>Internet</strong> - Relatively decent enough to be comfortable
     </p>
   </li>  
+  <li>
+    <p>
+      <strong>Browser</strong>
+      <ul>
+        <li>
+          <p>Chrome</p>
+        </li>
+        <li>
+          <p>Brave</p>
+        </li>
+        <li>
+          <p>Safari</p>
+        </li>
+        <li>
+          <p>Opera</p>
+        </li>
+        <li>
+          <p>OperaGX</p>
+        </li>
+        <li>
+          <p>And More</p>
+        </li>
+      </ul>   
+    </p>
+  </li>
   <li>
     <p>
       <strong>Operating System(s)</strong>    
@@ -183,63 +203,26 @@
     </p>
   </li>
 </ul>
-
-<h3 id="usage-links">
-  🔗 Links
+<h3 id="usage-preview">
+  🚀 Preview
 </h3>
-
-<p>Click to use the application - straight to the point.</p>
-
-https://datastudio.google.com/s/irbNNcZBEjw
-
-</br>
-
-
-
-<h2 id="contribution">
-  🤝 Contribution
-</h2>
-
 <p>
-  Meaningful contributions are always welcome! Having said that, please be guided with the following documentation based on what aspects of the project you want to be improved upon.
+  <a href="https://datastudio.google.com/s/irbNNcZBEjw">
+    Click Here
+  </a> to use the application - straight to the point.
 </p>
-
-<h3 id="contribution-sections">
-  📖 Sections
-</h3>
-
-<ul>
-  <li>
-    <p><a href="./CONTRIBUTING.md">Contribution Guidelines</a></p>
-  </li>
-  <li>
-    <p><a href="./SECURITY.md">Security Guidelines</a></p>
-  </li>
-  <li>
-    <p><a href="./.github/ISSUE_TEMPLATE/bug_report.md">Bug Reports</a></p>
-  </li>
-  <li>
-    <p><a href="./.github/ISSUE_TEMPLATE/feature_request.md">Feature Requests</a></p>
-  </li>
-  <li>
-    <p><a href="./.github/PULL_REQUEST_TEMPLATE.md">Pull Requests</a></p>
-  </li>
-</ul>
-
 </br>
 
 
 
 <h2 id="legalities">
-  🏛️ Legalities
+  	🏛️ Legalities
 </h2>
-
 <h3 id="legalities-license">
-  📋 License
+  	📋 License
 </h3>
 
 <p>
-  The project is currently under the <a href="./LICENSE">MIT License</a>.
+  	The project is currently under the <a href="./LICENSE">MIT License</a>.
 </p>
-
 </br>

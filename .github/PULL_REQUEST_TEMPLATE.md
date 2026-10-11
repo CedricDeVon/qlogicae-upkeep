@@ -6,8 +6,6 @@
 
 <!-- Link the issue this pull request addresses, if applicable -->
 
-Closes #
-
 ## Changes
 
 <!-- List the main changes introduced by this pull request -->
