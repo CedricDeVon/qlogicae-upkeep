@@ -12,7 +12,7 @@
   <div style="margin: 32px 64px;">
 
 <!-- Static Markdown Badges -->
-![Project - Version](https://img.shields.io/badge/Version-v1.5.8-blue)
+![Project - Version](https://img.shields.io/badge/Version-v1.6.0-blue)
 ![License - Name](https://img.shields.io/badge/License-MIT-red)
 ![Google](https://img.shields.io/badge/Google-Sheets-green)
 ![Looker](https://img.shields.io/badge/Looker-Studio-blue)
@@ -209,7 +209,7 @@
 <p>
   <a href="https://datastudio.google.com/s/irbNNcZBEjw">
     Click Here
-  </a> to use the application - straight to the point.
+  </a> to use the application.
 </p>
 </br>
 

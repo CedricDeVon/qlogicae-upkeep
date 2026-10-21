@@ -28,14 +28,16 @@ assignees: []
 
 ## Environment
 
-- Browser Name:
-- Browser Version:
+- Operating System:
+- Version:
+- Python Version:
+- Package Version:
 
 ## Logs and Error Messages
 
 <!-- Include any relevant logs, stack traces, or error messages. -->
 
-``` text
+```text
 
 ````
 
