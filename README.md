@@ -1,6 +1,6 @@
 </br>
 <div style="width: 100%; display: flex; justify-content: center;">
-    <image alt="QLogicae logo" src="./project/asset/qlogicae.png" width="256px">
+    <image alt="QLogicae logo" src="./project/asset/qlogicae.png" style="width: 100%; height: auto;">
 </div>
 </br>
 
@@ -24,6 +24,12 @@
   </div>
 </div>
 </br>
+
+
+
+<!-- <h2>✨ Showcase</h2>
+<p style="text-align: center">Coming Soon ...</p>
+</br> -->
 
 
 
@@ -158,7 +164,7 @@
 <ul>
   <li>
     <p>
-      <strong>Internet</strong> - Relatively decent enough to be comfortable
+      <strong>Internet Connection</strong>
     </p>
   </li>  
   <li>
@@ -173,12 +179,6 @@
         </li>
         <li>
           <p>Safari</p>
-        </li>
-        <li>
-          <p>Opera</p>
-        </li>
-        <li>
-          <p>OperaGX</p>
         </li>
         <li>
           <p>And More</p>
